@@ -1,4 +1,5 @@
 #!/bin/sh
+# real name is /usr/bin/auto_uvc.sh
 
 #set -x
 
