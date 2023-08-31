@@ -1,5 +1,5 @@
 #!/bin/sh
-#
+# /etc/mount_mmc_ext4_overlay.sh
 
 case "$1" in
   start)
